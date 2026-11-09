@@ -19,7 +19,7 @@ Cada estudiante se guarda en un diccionario y todos los diccionarios van dentro 
 
 No usa ninguna librería externa, solo Python.
 
-#COMO SE USA 
+#COMO SE PUEDE UTILIZAR 
 
 Solo hay que tener Python 3 instalado y ejecutar en la terminal:
 
